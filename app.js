@@ -1,3 +1,4 @@
+// Fibonacci - edited by dinhbaokhanh
 function fibo(n) {
     if (n <= 1) return n;
     
@@ -15,3 +16,4 @@ function fibo(n) {
 }
 
 console.log(fibo(10));
+console.log(fibo(20));
