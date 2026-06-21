@@ -15,5 +15,13 @@ function fibo(n) {
     return current;
 }
 
+// Code by Phạm Minh Đức
+function toi_yeu_tat_ca_cac_ban() {
+  console.log("anh em co gang nheeeee");
+}
+
+
+toi_yeu_tat_ca_cac_ban();
+
 console.log(fibo(10));
 console.log(fibo(20));
