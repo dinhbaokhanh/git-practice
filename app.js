@@ -32,3 +32,9 @@ function cr7Motivation() {
 }
 
 cr7Motivation();
+
+function foo(n) {
+    console.log("foo, n = ", n);
+}
+
+foo(40);
