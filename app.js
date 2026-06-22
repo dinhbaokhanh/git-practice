@@ -33,4 +33,8 @@ function cr7Motivation() {
 
 cr7Motivation();
 
+function foo(n) {
+    console.log("CONFLICT!");
+}
+
 foo(40);
