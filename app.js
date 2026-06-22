@@ -31,4 +31,8 @@ function cr7Motivation() {
     console.log("⚽ CR7 thức dậy lúc 5h sáng để tập luyện, còn chúng ta thức dậy lúc 5h để tắt báo thức. 😆");
 }
 
+function foo(n) {
+    console.log("CONFLICT IN MAIN!");
+}
+
 cr7Motivation();
