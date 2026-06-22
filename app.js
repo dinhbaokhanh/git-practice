@@ -1,4 +1,4 @@
-// Fibonacci - edited by main
+// Fibonacci - edited by main & Đinh Bảo Khánh
 function fibonacchi(n) {
     if (n <= 1) return n;
     
@@ -15,5 +15,20 @@ function fibonacchi(n) {
     return current;
 }
 
+// Code by Phạm Minh Đức
+function toi_yeu_tat_ca_cac_ban() {
+  console.log("anh em co gang nheeeee");
+}
+
+
+toi_yeu_tat_ca_cac_ban();
+
 console.log(fibo(10));
 console.log(fibo(20));
+
+// Code by Tuan Nguyen Van
+function cr7Motivation() {
+    console.log("⚽ CR7 thức dậy lúc 5h sáng để tập luyện, còn chúng ta thức dậy lúc 5h để tắt báo thức. 😆");
+}
+
+cr7Motivation();
