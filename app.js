@@ -1,5 +1,5 @@
-// Fibonacci - edited by dinhbaokhanh
-function fibo(n) {
+// Fibonacci - edited by main
+function fibonacchi(n) {
     if (n <= 1) return n;
     
     let prev2 = 0;
