@@ -28,7 +28,7 @@ console.log(fibo(20));
 
 // Code by Tuan Nguyen Van
 function cr7Motivation() {
-    console.log("SIUUUUUU!");
+    console.log("CR7 is the GOAT");
 }
 
 cr7Motivation();
