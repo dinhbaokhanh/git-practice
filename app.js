@@ -28,7 +28,7 @@ console.log(fibo(20));
 
 // Code by Tuan Nguyen Van
 function cr7Motivation() {
-    console.log("⚽ CR7 thức dậy lúc 5h sáng để tập luyện, còn chúng ta thức dậy lúc 5h để tắt báo thức. 😆");
+    console.log("SIUUUUUU!");
 }
 
 cr7Motivation();
